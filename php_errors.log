@@ -1,0 +1,28 @@
+[26-Feb-2018 12:58:28 UTC] PHP Fatal error:  Class 'ApiPlatform\Core\Bridge\Symfony\Bundle\ApiPlatformBundle' not found in /home/ubuntu/workspace/app/AppKernel.php on line 17
+[26-Feb-2018 12:58:28 UTC] PHP Stack trace:
+[26-Feb-2018 12:58:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/app.php:0
+[26-Feb-2018 12:58:28 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/web/app.php:19
+[26-Feb-2018 12:58:28 UTC] PHP   3. Symfony\Component\HttpKernel\Kernel->boot() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:197
+[26-Feb-2018 12:58:28 UTC] PHP   4. Symfony\Component\HttpKernel\Kernel->initializeBundles() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:134
+[26-Feb-2018 12:58:28 UTC] PHP   5. AppKernel->registerBundles() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:494
+[26-Feb-2018 13:02:04 UTC] PHP Fatal error:  Class 'ApiPlatform\Core\Bridge\Symfony\Bundle\ApiPlatformBundle' not found in /home/ubuntu/workspace/app/AppKernel.php on line 17
+[26-Feb-2018 13:02:04 UTC] PHP Stack trace:
+[26-Feb-2018 13:02:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/app.php:0
+[26-Feb-2018 13:02:04 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/web/app.php:19
+[26-Feb-2018 13:02:04 UTC] PHP   3. Symfony\Component\HttpKernel\Kernel->boot() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:197
+[26-Feb-2018 13:02:04 UTC] PHP   4. Symfony\Component\HttpKernel\Kernel->initializeBundles() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:134
+[26-Feb-2018 13:02:04 UTC] PHP   5. AppKernel->registerBundles() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:494
+[26-Feb-2018 13:02:18 UTC] PHP Fatal error:  Class 'ApiPlatform\Core\Bridge\Symfony\Bundle\ApiPlatformBundle' not found in /home/ubuntu/workspace/app/AppKernel.php on line 17
+[26-Feb-2018 13:02:18 UTC] PHP Stack trace:
+[26-Feb-2018 13:02:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/app_dev.php:0
+[26-Feb-2018 13:02:18 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/web/app_dev.php:29
+[26-Feb-2018 13:02:18 UTC] PHP   3. Symfony\Component\HttpKernel\Kernel->boot() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:197
+[26-Feb-2018 13:02:18 UTC] PHP   4. Symfony\Component\HttpKernel\Kernel->initializeBundles() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:134
+[26-Feb-2018 13:02:18 UTC] PHP   5. AppKernel->registerBundles() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:494
+[26-Feb-2018 13:02:48 UTC] PHP Fatal error:  Class 'ApiPlatform\Core\Bridge\Symfony\Bundle\ApiPlatformBundle' not found in /home/ubuntu/workspace/app/AppKernel.php on line 17
+[26-Feb-2018 13:02:48 UTC] PHP Stack trace:
+[26-Feb-2018 13:02:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/app_dev.php:0
+[26-Feb-2018 13:02:48 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/web/app_dev.php:29
+[26-Feb-2018 13:02:48 UTC] PHP   3. Symfony\Component\HttpKernel\Kernel->boot() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:197
+[26-Feb-2018 13:02:48 UTC] PHP   4. Symfony\Component\HttpKernel\Kernel->initializeBundles() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:134
+[26-Feb-2018 13:02:48 UTC] PHP   5. AppKernel->registerBundles() /home/ubuntu/workspace/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:494

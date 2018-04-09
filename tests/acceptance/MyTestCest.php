@@ -1,0 +1,20 @@
+<?php
+
+
+class MyTestCest
+{
+    public function _before(AcceptanceTester $I)
+    {
+    }
+
+    public function _after(AcceptanceTester $I)
+    {
+    }
+
+    // tests
+    public function tryToTest(AcceptanceTester $I)
+    {
+        $I->amOnPage('/cv');
+        $I->see("jkyukyukyifyil");
+    }
+}
